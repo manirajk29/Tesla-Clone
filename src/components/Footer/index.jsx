@@ -8,10 +8,10 @@ const Footer = ({bottom}) =>{
         <Wrapper>
             <Content className={bottom} >
                 <div>
-                    <a href="https://github.com/Manirajk29/Tesla-clone" target='_blank' >Tesla-Clone &copy; 2025</a>
+                    <a href="https://github.com/Manirajk29/Tesla-Clone" target='_blank' >Tesla-Clone &copy; 2025</a>
                 </div>
                 <div>
-                    <a href="https://www.linkedin.com/in/maniraj-k/" target="_blank" >LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/maniraj-k-6ab940265/" target="_blank" >LinkedIn</a>
                     <a href="https://github.com/Manirajk29" target="_blank" >GitHub</a>
                 </div>
             </Content>
